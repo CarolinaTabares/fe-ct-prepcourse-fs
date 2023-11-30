@@ -11,6 +11,7 @@ const nuevoString = null;
 const nuevoNumero = null;
 
 // Crea una variable de tipo boolean.
+
 const nuevoBoolean = null;
 
 // Resuelve el siguiente problema matemático.
